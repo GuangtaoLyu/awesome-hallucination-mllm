@@ -1,6 +1,6 @@
 # Paper List
 
-*Last updated: 2026-06-10 | Total papers: 267*
+*Last updated: 2026-07-03 | Total papers: 284*
 
 
 ## 2026
@@ -387,89 +387,106 @@
 ## 2024
 205. **verthinking Causes Hallucination: Tracing Confounder Propagation in Vision Language Models**  ,   Shoby et al.  ,
 206. **ZINA: Multimodal Fine-grained Hallucination Detection and Editing**  ,   Wada et al.  ,
-207. **Verb Mirage: Unveiling and Assessing Verb Concept Hallucinations in Multimodal Large Language Models**  ,   Wang et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2412.04939-b31b1b.svg)](https://arxiv.org/abs/2412.04939)
+207. **Vocabulary Hijacking in LVLMs: Unveiling Critical Attention Heads by Excluding Inert Tokens to Mitigate Hallucination**  ,   Chen et al.  ,
+208. **Vision-Language Introspection: Mitigating Overconfident Hallucinations in MLLMs via Interpretable Bi-Causal Steering**  ,   Liu et al.  ,
+209. **Verb Mirage: Unveiling and Assessing Verb Concept Hallucinations in Multimodal Large Language Models**  ,   Wang et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2412.04939-b31b1b.svg)](https://arxiv.org/abs/2412.04939)
 
-208. **VaLiD: Mitigating the Hallucination of Large Vision Language Models by Visual Layer Fusion Contrastive Decoding**  ,   Wang et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2411.15839-b31b1b.svg)](https://arxiv.org/abs/2411.15839)
+210. **VaLiD: Mitigating the Hallucination of Large Vision Language Models by Visual Layer Fusion Contrastive Decoding**  ,   Wang et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2411.15839-b31b1b.svg)](https://arxiv.org/abs/2411.15839)
 
-209. **VES-RFT: Rewarding Visual Evidence Sensitivity to Mitigate Hallucinations in Large Vision-Language Models**  ,   Hou et al.  ,
-210. **VACoDe: Visual Augmented Contrastive Decoding**  ,   Kim et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2408.05337-b31b1b.svg)](https://arxiv.org/abs/2408.05337)
+211. **VIB-Probe: Detecting and Mitigating Hallucinations in Vision-Language Models via Variational Information Bottleneck**  ,   Zhang et al.  ,
+212. **VES-RFT: Rewarding Visual Evidence Sensitivity to Mitigate Hallucinations in Large Vision-Language Models**  ,   Hou et al.  ,
+213. **VACoDe: Visual Augmented Contrastive Decoding**  ,   Kim et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2408.05337-b31b1b.svg)](https://arxiv.org/abs/2408.05337)
 
-211. **Unstitching the Chimera: Frame-Level Risk and Train-Free Mitigation for Video Hallucination**  ,   Yang et al.  ,
-212. **Unraveling Cross-Modality Knowledge Conflict in Large Vision-Language Models**  ,   Zhu et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2410.03659-b31b1b.svg)](https://arxiv.org/abs/2410.03659)
+214. **Unstitching the Chimera: Frame-Level Risk and Train-Free Mitigation for Video Hallucination**  ,   Yang et al.  ,
+215. **Unraveling Cross-Modality Knowledge Conflict in Large Vision-Language Models**  ,   Zhu et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2410.03659-b31b1b.svg)](https://arxiv.org/abs/2410.03659)
 
-213. **Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models**  ,   Zhang et al.  ,
-214. **Understanding and Mitigating Hallucinations in Multimodal Chain-of-Thought Models**  ,   Ma et al.  ,
-215. **Understanding and Mitigating Hallucinations in Multimodal Chain-of-Thought Models**  ,   Ma et al.  ,
-216. **TriDF: Evaluating Perception, Detection, and Hallucination for Interpretable DeepFake Detection**  ,   Jiang-Lin et al.  ,
-217. **TriDF: Evaluating Perception, Detection, and Hallucination for Interpretable DeepFake Detection**  ,   Jiang-Lin et al.  ,
-218. **Thinking in Uncertainty: Mitigating Hallucinations in MLRMs with Latent Entropy-Aware Decoding**  ,   Xu et al.  ,
-219. **TELL YOUR MODEL WHERE TO ATTEND: POST-HOC ATTENTION STEERING FOR LLMS**  ,   Zhang et al.  ,
-220. **Seeing the Image: Prioritizing Visual Correlation by Contrastive Alignment**  ,   Xiao et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2405.17871-b31b1b.svg)](https://arxiv.org/abs/2405.17871)
+216. **Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models**  ,   Zhang et al.  ,
+217. **Understanding and Mitigating Hallucinations in Multimodal Chain-of-Thought Models**  ,   Ma et al.  ,
+218. **Understanding and Mitigating Hallucinations in Multimodal Chain-of-Thought Models**  ,   Ma et al.  ,
+219. **TriDF: Evaluating Perception, Detection, and Hallucination for Interpretable DeepFake Detection**  ,   Jiang-Lin et al.  ,
+220. **TriDF: Evaluating Perception, Detection, and Hallucination for Interpretable DeepFake Detection**  ,   Jiang-Lin et al.  ,
+221. **Towards Mitigating Hallucinations in Large Vision-Language Models by Refining Textual Embeddings**  ,   Agrawal et al.  ,
+222. **Thinking in Uncertainty: Mitigating Hallucinations in MLRMs with Latent Entropy-Aware Decoding**  ,   Xu et al.  ,
+223. **TELL YOUR MODEL WHERE TO ATTEND: POST-HOC ATTENTION STEERING FOR LLMS**  ,   Zhang et al.  ,
+224. **Spotlight and Shadow: Attention-Guided Dual-Anchor Introspective Decoding for MLLM Hallucination Mitigation**  ,   Wu et al.  ,
+225. **Seeing the Image: Prioritizing Visual Correlation by Contrastive Alignment**  ,   Xiao et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2405.17871-b31b1b.svg)](https://arxiv.org/abs/2405.17871)
 
-221. **Seeing Clearly by Layer Two: Enhancing Attention Heads to Alleviate Hallucination in LVLMs**  ,   Zhang et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2411.09968-b31b1b.svg)](https://arxiv.org/abs/2411.09968)
+226. **Seeing Clearly by Layer Two: Enhancing Attention Heads to Alleviate Hallucination in LVLMs**  ,   Zhang et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2411.09968-b31b1b.svg)](https://arxiv.org/abs/2411.09968)
 
-222. **Same Attention, Different Truths: Put Logit-Lens over Visual Attention to Detect and Mitigate LVLM Object Hallucination**  ,   Wang et al.  ,
-223. **SVHalluc: Benchmarking Speech-Vision Hallucination in Audio-Visual Large Language Models**  ,   Zhang et al.  ,
-224. **SEASON: Mitigating Temporal Hallucination in Video Large Language Models via Self-Diagnostic Contrastive Decoding**  ,   Wu et al.  ,
-225. **Residual Decoding: Mitigating Hallucinations in Large Vision-Language Models via History-Aware Residual Guidance**  ,   Chen et al.  ,
-226. **RITUAL: Random Image Transformations as a Universal Anti-hallucination Lever in Large Vision Language Models**  ,   Woo et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2405.17821-b31b1b.svg)](https://arxiv.org/abs/2405.17821)
+227. **Same Attention, Different Truths: Put Logit-Lens over Visual Attention to Detect and Mitigate LVLM Object Hallucination**  ,   Wang et al.  ,
+228. **SVHalluc: Benchmarking Speech-Vision Hallucination in Audio-Visual Large Language Models**  ,   Zhang et al.  ,
+229. **SEASON: Mitigating Temporal Hallucination in Video Large Language Models via Self-Diagnostic Contrastive Decoding**  ,   Wu et al.  ,
+230. **Revealing and Enhancing Core Visual Regions: Harnessing Internal Attention Dynamics for Hallucination Mitigation in LVLMs**  ,   Lyu et al.  ,
+231. **Residual Decoding: Mitigating Hallucinations in Large Vision-Language Models via History-Aware Residual Guidance**  ,   Chen et al.  ,
+232. **RITUAL: Random Image Transformations as a Universal Anti-hallucination Lever in Large Vision Language Models**  ,   Woo et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2405.17821-b31b1b.svg)](https://arxiv.org/abs/2405.17821)
 
-227. **OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation**  ,   Huang et al.  ,   [Paper](https://ieeexplore.ieee.org/document/10655465/)
-228. **Multi-Modal Hallucination Control by Visual Information Grounding**  ,   Favero et al.  ,   [Paper](https://ieeexplore.ieee.org/document/10655750/)
-229. **Mitigating Object Hallucination via Concentric Causal Attention**  ,   Xing et al.  ,
-230. **Mitigating Object Hallucination in LVLMs via Attention Imbalance Rectification**  ,   Sun et al.  ,
-231. **Mitigating Multimodal Hallucinations via Gradient-based Self-Reflection**  ,   Wang et al.  ,
-232. **Mitigating Multilingual Hallucination in Large Vision-Language Models**  ,   Qu et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2408.00550-b31b1b.svg)](https://arxiv.org/abs/2408.00550)
+233. **Perceptual Hallucination in Vision–Language Models: Definition, Analysis and Verification**  ,   Hwang et al.  ,
+234. **Once Correct, Still Wrong: Counterfactual Hallucination in Multilingual Vision-Language Models**  ,   Mousi et al.  ,
+235. **OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation**  ,   Huang et al.  ,   [Paper](https://ieeexplore.ieee.org/document/10655465/)
+236. **Multi-Modal Hallucination Control by Visual Information Grounding**  ,   Favero et al.  ,   [Paper](https://ieeexplore.ieee.org/document/10655750/)
+237. **Mitigating Object Hallucination via Concentric Causal Attention**  ,   Xing et al.  ,
+238. **Mitigating Object Hallucination in LVLMs via Attention Imbalance Rectification**  ,   Sun et al.  ,
+239. **Mitigating Multimodal Hallucinations via Gradient-based Self-Reflection**  ,   Wang et al.  ,
+240. **Mitigating Multilingual Hallucination in Large Vision-Language Models**  ,   Qu et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2408.00550-b31b1b.svg)](https://arxiv.org/abs/2408.00550)
 
-233. **Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding**  ,   Wang et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2403.18715-b31b1b.svg)](https://arxiv.org/abs/2403.18715)
+241. **Mitigating Hallucinations in VLMs: Enhancing Visual Attention via Head-Wise Perturbation**  ,   Wang et al.  ,
+242. **Mitigating Hallucinations in Large Vision-Language Models without Performance Degradation**  ,   Zhu et al.  ,
+243. **Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding**  ,   Wang et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2403.18715-b31b1b.svg)](https://arxiv.org/abs/2403.18715)
 
-234. **MAD: Modality-Adaptive Decoding for Mitigating Cross-Modal Hallucinations in Multimodal Large Language Models**  ,   Chung et al.  ,
-235. **Lyapunov Probes for Hallucination Detection in Large Foundation Models**  ,   Luan et al.  ,
-236. **Layer Importance and Hallucination Analysis in Large Language Models via Enhanced Activation Variance-Sparsity**  ,   Song et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2411.10069-b31b1b.svg)](https://arxiv.org/abs/2411.10069)
+244. **Mitigating Action-Relation Hallucinations in LVLMs via Relation-aware Visual Enhancement**  ,   Qin et al.  ,
+245. **MAD: Modality-Adaptive Decoding for Mitigating Cross-Modal Hallucinations in Multimodal Large Language Models**  ,   Chung et al.  ,
+246. **Lyapunov Probes for Hallucination Detection in Large Foundation Models**  ,   Luan et al.  ,
+247. **Layer Importance and Hallucination Analysis in Large Language Models via Enhanced Activation Variance-Sparsity**  ,   Song et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2411.10069-b31b1b.svg)](https://arxiv.org/abs/2411.10069)
 
-237. **Instructive Decoding: Instruction-Tuned Large Language Models are Self-Refiner from Noisy Instructions**  ,   Kim et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2311.00233-b31b1b.svg)](https://arxiv.org/abs/2311.00233)
+248. **Latent Attention Denoising: A Training-Free Energy-Based Framework for Mitigating Hallucinations in Vision-Language Models**  ,   Luo et al.  ,
+249. **Instructive Decoding: Instruction-Tuned Large Language Models are Self-Refiner from Noisy Instructions**  ,   Kim et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2311.00233-b31b1b.svg)](https://arxiv.org/abs/2311.00233)
 
-238. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**  ,   Chen et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2403.01548-b31b1b.svg)](https://arxiv.org/abs/2403.01548)
+250. **Inject to Heal: Alleviating hallucination in LVLMs via Context Embedding Injection**  ,   Fazli et al.  ,
+251. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**  ,   Chen et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2403.01548-b31b1b.svg)](https://arxiv.org/abs/2403.01548)
 
-239. **IBD: Alleviating Hallucinations in Large Vision-Language Models via Image-Biased Decoding**  ,   Zhu et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2402.18476-b31b1b.svg)](https://arxiv.org/abs/2402.18476)
+252. **IBD: Alleviating Hallucinations in Large Vision-Language Models via Image-Biased Decoding**  ,   Zhu et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2402.18476-b31b1b.svg)](https://arxiv.org/abs/2402.18476)
 
-240. **HulluEdit: Single-Pass Evidence-Consistent Subspace Editing for Mitigating Hallucinations in Large Vision-Language Models**  ,   Lin et al.  ,
-241. **HALC: Object Hallucination Reduction via Adaptive Focal-Contrast Decoding**  ,   Chen et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2403.00425-b31b1b.svg)](https://arxiv.org/abs/2403.00425)
+253. **HulluEdit: Single-Pass Evidence-Consistent Subspace Editing for Mitigating Hallucinations in Large Vision-Language Models**  ,   Lin et al.  ,
+254. **HALC: Object Hallucination Reduction via Adaptive Focal-Contrast Decoding**  ,   Chen et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2403.00425-b31b1b.svg)](https://arxiv.org/abs/2403.00425)
 
-242. **HAIT: Hybrid Adversarial Iterative Training for Mitigating Object Hallucination in Large Vision-Language Models**  ,   Zhao et al.  ,
-243. **HAD: Hallucination-Aware Diffusion Priors for 3D Reconstruction**  ,   Liu et al.  ,
-244. **First Logit Boosting: Visual Grounding Method to Mitigate Object Hallucination in Large Vision-Language Models**  ,   Ha et al.  ,
-245. **Fine-Grained Multi Image Object Hallucination Benchmark**  ,   Min et al.  ,
-246. **Fighting Hallucinations with Counterfactuals: Diffusion-Guided Perturbations for LVLM Hallucination Suppression**  ,   Dastmalchi et al.  ,
-247. **Envision, Attend, Then Respond: Counterfactual Hallucination Mitigation in Large Vision-Language Models**  ,   Liang et al.  ,
-248. **Envision, Attend, Then Respond: Counterfactual Hallucination Mitigation in Large Vision-Language Models**  ,   Liang et al.  ,
-249. **ELV-Halluc: Benchmarking Semantic Aggregation Hallucinations in Video Understanding**  ,   Lu et al.  ,
-250. **DoLa: Decoding by Contrasting Layers Improves Factuality in Large Language Models**  ,   Chuang et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2309.03883-b31b1b.svg)](https://arxiv.org/abs/2309.03883)
+255. **HAIT: Hybrid Adversarial Iterative Training for Mitigating Object Hallucination in Large Vision-Language Models**  ,   Zhao et al.  ,
+256. **HAD: Hallucination-Aware Diffusion Priors for 3D Reconstruction**  ,   Liu et al.  ,
+257. **Global Context or Local Detail? Adaptive Visual Grounding for Hallucination Mitigation**  ,   Jiang et al.  ,
+258. **First Logit Boosting: Visual Grounding Method to Mitigate Object Hallucination in Large Vision-Language Models**  ,   Ha et al.  ,
+259. **Fine-Grained Multi Image Object Hallucination Benchmark**  ,   Min et al.  ,
+260. **Fighting Hallucinations with Counterfactuals: Diffusion-Guided Perturbations for LVLM Hallucination Suppression**  ,   Dastmalchi et al.  ,
+261. **Envision, Attend, Then Respond: Counterfactual Hallucination Mitigation in Large Vision-Language Models**  ,   Liang et al.  ,
+262. **Envision, Attend, Then Respond: Counterfactual Hallucination Mitigation in Large Vision-Language Models**  ,   Liang et al.  ,
+263. **ELV-Halluc: Benchmarking Semantic Aggregation Hallucinations in Video Understanding**  ,   Lu et al.  ,
+264. **DoLa: Decoding by Contrasting Layers Improves Factuality in Large Language Models**  ,   Chuang et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2309.03883-b31b1b.svg)](https://arxiv.org/abs/2309.03883)
 
-251. **DAMRO: Dive into the Attention Mechanism of LVLM to Reduce Object Hallucination**  ,   Gong et al.  ,   [Paper](https://aclanthology.org/2024.emnlp-main.439)
-252. **Cross-Modal Attention Calibration for LVLM Hallucination Mitigation**  ,   Li et al.  ,
-253. **Cross-Modal Attention Calibration for LVLM Hallucination Mitigation**  ,   Li et al.  ,
-254. **Counterfactual Segmentation Reasoning: Diagnosing and Mitigating Pixel-Grounding Hallucination**  ,   Li et al.  ,
-255. **Contrastive Region Guidance: Improving Grounding in Vision-Language Models without Training**  ,   Wan et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2403.02325-b31b1b.svg)](https://arxiv.org/abs/2403.02325)
+265. **DiVE: Decoupling Intra-layer Visual Evidence for Mitigating Hallucinations in Large Vision-Language Models**  ,   Li et al.  ,
+266. **DAMRO: Dive into the Attention Mechanism of LVLM to Reduce Object Hallucination**  ,   Gong et al.  ,   [Paper](https://aclanthology.org/2024.emnlp-main.439)
+267. **Cross-Modal Attention Calibration for LVLM Hallucination Mitigation**  ,   Li et al.  ,
+268. **Cross-Modal Attention Calibration for LVLM Hallucination Mitigation**  ,   Li et al.  ,
+269. **Counterfactual Segmentation Reasoning: Diagnosing and Mitigating Pixel-Grounding Hallucination**  ,   Li et al.  ,
+270. **Contrastive Region Guidance: Improving Grounding in Vision-Language Models without Training**  ,   Wan et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2403.02325-b31b1b.svg)](https://arxiv.org/abs/2403.02325)
 
-256. **Contrastive Decoding Reduces Hallucinations in Large Multilingual Machine Translation Models**  ,   Waldendorf et al.  ,
-257. **ConVis: Contrastive Decoding with Hallucination Visualization for Mitigating Hallucinations in Multimodal Large Language Models**  ,   Park et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2408.13906-b31b1b.svg)](https://arxiv.org/abs/2408.13906)
+271. **Contrastive Decoding Reduces Hallucinations in Large Multilingual Machine Translation Models**  ,   Waldendorf et al.  ,
+272. **ConVis: Contrastive Decoding with Hallucination Visualization for Mitigating Hallucinations in Multimodal Large Language Models**  ,   Park et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2408.13906-b31b1b.svg)](https://arxiv.org/abs/2408.13906)
 
-258. **CausalLens: Sensitivity-Guided Multi-Head Causal Intervention for Hallucination Mitigation in Large Vision-Language Models**  ,   Ji et al.  ,
-259. **CausalLens: Sensitivity-Guided Multi-Head Causal Intervention for Hallucination Mitigation in Large Vision-Language Models**  ,   Ji et al.  ,
-260. **COPO: Causal-Oriented Policy Optimization for Hallucinations of MLLMs**  ,   Guo et al.  ,
-261. **CODE: Contrasting Self-generated Description to Combat Hallucination in Large Multi-modal Models**  ,   Kim et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2406.01920-b31b1b.svg)](https://arxiv.org/abs/2406.01920)
+273. **CausalLens: Sensitivity-Guided Multi-Head Causal Intervention for Hallucination Mitigation in Large Vision-Language Models**  ,   Ji et al.  ,
+274. **CausalLens: Sensitivity-Guided Multi-Head Causal Intervention for Hallucination Mitigation in Large Vision-Language Models**  ,   Ji et al.  ,
+275. **COPO: Causal-Oriented Policy Optimization for Hallucinations of MLLMs**  ,   Guo et al.  ,
+276. **CODE: Contrasting Self-generated Description to Combat Hallucination in Large Multi-modal Models**  ,   Kim et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2406.01920-b31b1b.svg)](https://arxiv.org/abs/2406.01920)
 
-262. **Attention-Space Contrastive Guidance for Efficient Hallucination Mitigation in LVLMs**  ,   Jo et al.  ,
-263. **Analyzing and Mitigating Object Hallucination in Large Vision-Language Models**  ,   Zhou et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2310.00754-b31b1b.svg)](https://arxiv.org/abs/2310.00754)
+277. **Attention-Space Contrastive Guidance for Efficient Hallucination Mitigation in LVLMs**  ,   Jo et al.  ,
+278. **Analyzing and Mitigating Object Hallucination in Large Vision-Language Models**  ,   Zhou et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2310.00754-b31b1b.svg)](https://arxiv.org/abs/2310.00754)
 
-264. **Alleviating Hallucinations in Large Vision-Language Models through Hallucination-Induced Optimization**  ,   Chen et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2405.15356-b31b1b.svg)](https://arxiv.org/abs/2405.15356)
+279. **Alleviating Hallucinations in Large Vision-Language Models through Hallucination-Induced Optimization**  ,   Chen et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2405.15356-b31b1b.svg)](https://arxiv.org/abs/2405.15356)
 
+280. **Aligning with Your Own Voice: Self-Corrected Preference Learning for Hallucination Mitigation in LVLMs**  ,   Lim et al.  ,
+281. **AHEAD: Attention Head Energy-Aware Dynamics for Hallucination Mitigation in MLLMs**  ,   Chang et al.  ,
 
 ## 2023
-265. **Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding**  ,   Leng et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2311.16922-b31b1b.svg)](https://arxiv.org/abs/2311.16922)
+282. **Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding**  ,   Leng et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2311.16922-b31b1b.svg)](https://arxiv.org/abs/2311.16922)
 
-266. **Evaluating Object Hallucination in Large Vision-Language Models**  ,   Li et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2305.10355-b31b1b.svg)](https://arxiv.org/abs/2305.10355)
+283. **Evaluating Object Hallucination in Large Vision-Language Models**  ,   Li et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2305.10355-b31b1b.svg)](https://arxiv.org/abs/2305.10355)
 
-267. **Contrastive Decoding: Open-ended Text Generation as Optimization**  ,   Li et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2210.15097-b31b1b.svg)](https://arxiv.org/abs/2210.15097)
+284. **Contrastive Decoding: Open-ended Text Generation as Optimization**  ,   Li et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2210.15097-b31b1b.svg)](https://arxiv.org/abs/2210.15097)
 
