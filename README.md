@@ -2,6 +2,29 @@
 
 *Last updated: 2026-07-03 | Total papers: 284*
 
+If you find this repository helpful for your research, we would appreciate citations to our related papers. We also warmly welcome discussions and suggestions: 1004392768@qq.com.
+
+```bibtex
+@article{lyu2026hallu_sae,
+  title={Towards Interpretable Hallucination Analysis and Mitigation in LVLMs via Contrastive Neuron Steering},
+  author={Lyu, Guangtao and Cheng, Xinyi and Liu, Qi and Xu, Chenghao and Yan, Jiexi and Yang, Muli and Fang, Fen and Deng, Cheng},
+  journal={arXiv preprint arXiv:2602.00621},
+  year={2026}
+}
+@article{lyu2025hallu_vdc,
+  title={Revealing Perception and Generation Dynamics in LVLMs: Mitigating Hallucinations via Validated Dominance Correction},
+  author={Lyu, Guangtao and Cheng, Xinyi and Xu, Chenghao and Liu, Qi and Yang, Muli and Fang, Fen and Chen, Huilin and Yan, Jiexi and Yang, Xu and Deng, Cheng},
+  journal={arXiv preprint arXiv:2512.18813},
+  year={2025}
+}
+@article{lyu2026hallu_pade,
+  title={Revealing and Enhancing Core Visual Regions: Harnessing Internal Attention Dynamics for Hallucination Mitigation in LVLMs},
+  author={Lyu, Guangtao and Liu, Qi and Xu, Chenghao and Yan, Jiexi and Yang, Muli and Li, Xueting and Fang, Fen and Deng, Cheng},
+  journal={ACL Findings},
+  year={2026}
+}
+```
+
 
 ## 2026
 1. **Where Does Vision Meet Language? Understanding and Refining Visual Fusion in MLLMs via Contrastive Attention**  ,   Song et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2601.08151-b31b1b.svg)](https://arxiv.org/abs/2601.08151)
